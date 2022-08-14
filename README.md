@@ -2,7 +2,9 @@
 description: Eine Übersicht über die verwendeten Bausteine und Variablen.
 ---
 
-# Aufbau des Programmes
+# Aufbau und Struktur
+
+{% embed url="https://github.com/mendax0110/Abfuellanlage_1" %}
 
 {% file src=".gitbook/assets/1.PNG" %}
 
@@ -21,5 +23,3 @@ description: Eine Übersicht über die verwendeten Bausteine und Variablen.
 {% file src=".gitbook/assets/Analogwert.PNG" %}
 
 {% file src=".gitbook/assets/Variabeln.PNG" %}
-
-{% file src=".gitbook/assets/1" %}
